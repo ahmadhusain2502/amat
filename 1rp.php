@@ -1,7 +1,7 @@
 <?php
 #AUTO CLAIM VOC GOJEK + tf 1rp 
 #MASUKIN AKUN YANG UDAH VERIF 
-$tokentf = 'd7e7abd5-0c97-480b-9153-af0bc7b2f56b';
+$tokentf = 'a753f9a5-91eb-4786-885e-e124155b8873';
 $pin = '252525';
 #Created By AHMAD HUSAIN
 #####################################
